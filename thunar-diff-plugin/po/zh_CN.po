@@ -1,0 +1,177 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: thunar-diff-plugin 0.1.0\n"
+"Report-Msgid-Bugs-To: eagle_xmw@aliyun.com\n"
+"POT-Creation-Date: 2013-07-21 13:03+0800\n"
+"PO-Revision-Date: 2013-06-16 18:40+0800\n"
+"Last-Translator: \n"
+"Language-Team: zh_CN <eagle_xmw@aliyun.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=0);\n"
+
+#: thunar-diff-plugin/tdp_preference.c:457
+msgid "Open File"
+msgstr "打开文件"
+
+#: thunar-diff-plugin/tdp_preference.c:464
+msgid "application file"
+msgstr "应用程序"
+
+#: thunar-diff-plugin/tdp_preference.c:519
+#: thunar-diff-plugin/tdp_preference.c:529
+msgid "Setup diff plugin perferences"
+msgstr "配置Diff插件的偏好设置"
+
+#: thunar-diff-plugin/tdp_preference.c:548
+msgid "compare command:      "
+msgstr "比较命令：   "
+
+#: thunar-diff-plugin/tdp_preference.c:557
+#: thunar-diff-plugin/tdp_preference.c:579
+msgid "browse"
+msgstr "浏览程序"
+
+#: thunar-diff-plugin/tdp_preference.c:570
+msgid "3-way compare command:"
+msgstr "Merge命令："
+
+#: thunar-diff-plugin/tdp_preference.c:592
+msgid "_Keep files in config file after comparison"
+msgstr "完成比较之后仍然保留选择结果"
+
+#: thunar-diff-plugin/tdp_preference.c:595
+msgid "Keep files in config file after comparison"
+msgstr "完成比较之后仍然保留选择结果"
+
+#: thunar-diff-plugin/tdp_preference.c:607
+msgid "Display [Select as left] in content menu"
+msgstr "在菜单中显示【选择为左边项】"
+
+#: thunar-diff-plugin/tdp_preference.c:611
+msgid "Display [Compare To:] in content menu"
+msgstr "在菜单中显示【与XXX进行比较】"
+
+#: thunar-diff-plugin/tdp_preference.c:615
+msgid "Display [Compare Two Items] in content menu"
+msgstr "在菜单中显示【比较两项】"
+
+#: thunar-diff-plugin/tdp_preference.c:619
+msgid "Display [Select as middle] in content menu"
+msgstr "在菜单中显示【选择为中间项】"
+
+#: thunar-diff-plugin/tdp_preference.c:623
+msgid "Display [Select Two Items as Left&Middle] in content menu"
+msgstr "在菜单中显示【选择两项分别为左边项、中间项】"
+
+#: thunar-diff-plugin/tdp_preference.c:627
+msgid "Display [Merge to Left] in content menu"
+msgstr "在菜单中显示【同左边项进行Merge操作】"
+
+#: thunar-diff-plugin/tdp_preference.c:631
+msgid "Display [Merge To Left&Middle] in content menu"
+msgstr "在菜单中显示【同左边项进行Merge操作】"
+
+#: thunar-diff-plugin/tdp_preference.c:635
+msgid "Display [Merge Three Items] in content menu"
+msgstr "在菜单中显示【Merge三项】"
+
+#: thunar-diff-plugin/tdp-provider.c:1046
+msgid "Select as _left"
+msgstr "选择为左边项"
+
+#: thunar-diff-plugin/tdp-provider.c:1047
+msgid "Select the file as compare left"
+msgid_plural "Select the folder as compare left"
+msgstr[0] "选择文件作为左边项结果"
+msgstr[1] "选择文件夹作为左边项结果"
+
+#: thunar-diff-plugin/tdp-provider.c:1058
+#, c-format
+msgid "_Compare to left item: %s"
+msgstr "与 %s 进行比较"
+
+#: thunar-diff-plugin/tdp-provider.c:1061
+msgid "Compare to the file"
+msgid_plural "Compare to the folder"
+msgstr[0] "与文件进行比较"
+msgstr[1] "与文件夹进行比较"
+
+#: thunar-diff-plugin/tdp-provider.c:1068
+msgid "_Select as middle"
+msgstr "选择为中间项"
+
+#: thunar-diff-plugin/tdp-provider.c:1069
+msgid "Select the file as merge middle"
+msgid_plural "Select the folder as merge middle"
+msgstr[0] "选择文件作为Merge的中间项"
+msgstr[1] "选择文件夹作为Merge的中间项"
+
+#: thunar-diff-plugin/tdp-provider.c:1081
+#, c-format
+msgid "_Merge to left & middle item: %s & %s"
+msgstr "与 %s 及 %s 进行Merge"
+
+#: thunar-diff-plugin/tdp-provider.c:1084
+msgid "Merge to the files"
+msgid_plural "Merge to the folders"
+msgstr[0] "与文件进行Merge"
+msgstr[1] "与文件夹进行Merge"
+
+#: thunar-diff-plugin/tdp-provider.c:1098
+msgid "_Compare two items"
+msgstr "比较两个文件/文件夹"
+
+#: thunar-diff-plugin/tdp-provider.c:1099
+msgid "Compare two files"
+msgid_plural "Compare two folders"
+msgstr[0] "比较两个文件"
+msgstr[1] "比较两个文件夹"
+
+#: thunar-diff-plugin/tdp-provider.c:1107
+msgid "_Select two items as left & middle items"
+msgstr "选择两个文件/文件夹Merge"
+
+#: thunar-diff-plugin/tdp-provider.c:1108
+msgid "Select two files as left & middle files"
+msgid_plural "Select two folders as left & middle folders"
+msgstr[0] ""
+msgstr[1] ""
+
+#: thunar-diff-plugin/tdp-provider.c:1119
+#, c-format
+msgid "_Merge two items to left item: %s"
+msgstr "Merge到： %s"
+
+#: thunar-diff-plugin/tdp-provider.c:1122
+msgid "Merge two files to left file"
+msgid_plural "Merge two folders to left folder"
+msgstr[0] "Merge两个文件到左边文件"
+msgstr[1] "Merge两个文件夹到左边文件夹"
+
+#: thunar-diff-plugin/tdp-provider.c:1136
+msgid "_Merge three items"
+msgstr "Merge三项"
+
+#: thunar-diff-plugin/tdp-provider.c:1137
+msgid "Merge three files"
+msgid_plural "Merge three folders"
+msgstr[0] "Merge三个文件"
+msgstr[1] "Merge三个文件夹"
+
+#: thunar-diff-plugin/tdp-provider.c:1143
+msgid "Edit the _Preferences"
+msgstr "编辑配置项"
+
+#: thunar-diff-plugin/tdp-provider.c:1144
+msgid "Edit the preferences"
+msgid_plural "Edit the preferences"
+msgstr[0] "编辑配置项"
+msgstr[1] "编辑配置项"

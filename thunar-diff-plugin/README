@@ -1,0 +1,30 @@
+What is it?
+===========
+
+The thunar-diff-plugin is a plugin for the Thunar File Manager, which
+adds "select for compare" operations to the file context menus. Using this plugin you
+will be able to configure a good compare application to Thunar.
+
+
+Required packages
+=================
+
+thunar-diff-plugin depends on the following packages:
+
+ - Thunar 1.2.0 or above
+
+Supported compare application
+==========================
+
+thunar-diff-plugin supports many compare application. For example: beyondcompare/kdiff/diffmerge.
+
+
+Installation
+============
+
+The file 'INSTALL' contains generic installation instructions. 
+
+How to report bugs?
+===================
+
+Bugs should be reported to my email address(eagle_xmw@aliyun.com). 

@@ -1,0 +1,68 @@
+2013-07-21  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* Makefile.in.in: New file, from gettext-0.18.3.
+
+2013-07-21  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* Makefile.in.in: New file, from gettext-0.18.3.
+
+2013-07-21  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* Makefile.in.in: Upgrade to gettext-0.18.3.
+
+2013-07-21  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* Makefile.in.in: Upgrade to gettext-0.18.3.
+
+2013-07-21  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* Makefile.in.in: Upgrade to gettext-0.18.3.
+
+2013-07-21  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* Makefile.in.in: Upgrade to gettext-0.18.3.
+	* boldquot.sed: New file, from gettext-0.18.3.
+	* en@boldquot.header: New file, from gettext-0.18.3.
+	* en@quot.header: New file, from gettext-0.18.3.
+	* insert-header.sin: New file, from gettext-0.18.3.
+	* quot.sed: New file, from gettext-0.18.3.
+	* remove-potcdate.sin: New file, from gettext-0.18.3.
+	* Rules-quot: New file, from gettext-0.18.3.
+
+2013-06-16  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* Makefile.in.in: Upgrade to gettext-0.18.2.
+
+2013-06-16  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* Makefile.in.in: Upgrade to gettext-0.18.2.
+
+2013-06-16  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* Makefile.in.in: Upgrade to gettext-0.18.2.
+
+2013-06-16  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* Makefile.in.in: Upgrade to gettext-0.18.2.
+
+2013-06-16  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* boldquot.sed: New file, from gettext-0.18.2.
+	* quot.sed: New file, from gettext-0.18.2.
+	* remove-potcdate.sin: New file, from gettext-0.18.2.
+
+2013-06-16  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* boldquot.sed: New file, from gettext-0.18.2.
+
+2013-06-16  gettextize  <bug-gnu-gettext@gnu.org>
+
+	* Makefile.in.in: Upgrade to gettext-0.18.2.
+	* boldquot.sed: New file, from gettext-0.18.2.
+	* en@boldquot.header: New file, from gettext-0.18.2.
+	* en@quot.header: New file, from gettext-0.18.2.
+	* insert-header.sin: New file, from gettext-0.18.2.
+	* quot.sed: New file, from gettext-0.18.2.
+	* remove-potcdate.sin: New file, from gettext-0.18.2.
+	* Rules-quot: New file, from gettext-0.18.2.
+
